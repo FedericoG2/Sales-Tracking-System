@@ -1,0 +1,19 @@
+# Compiled binary files
+/bin/
+/obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Sensitive data file
+SensitiveData.cs
+
+# Ignore NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+.nuget/

@@ -1,0 +1,19 @@
+Product Report
+Customer: Federico Gonzalez
+Salesperson: Ana García
+---------------------------
+Product: Mouse
+Price: $ 25,50
+Amount: 1
+Total: $ 25,50
+---------------------------
+Product: Monitor
+Price: $ 300,75
+Amount: 3
+Total: $ 902,25
+---------------------------
+Product: Printer
+Price: $ 150,30
+Amount: 5
+Total: $ 751,50
+---------------------------
