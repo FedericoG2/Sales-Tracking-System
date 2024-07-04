@@ -29,8 +29,8 @@ namespace Sale
    
         private void LoadSensitiveData()
         {
-            myEmail = SensitiveData.MyEmail;
-            myPassword = SensitiveData.MyPassword;
+            myEmail = Data.MyEmail;
+            myPassword = Data.MyPassword;
         }
 
         private void btnAttach_Click(object sender, EventArgs e)
